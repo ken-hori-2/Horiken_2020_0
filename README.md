@@ -18,10 +18,13 @@ Horiken_2020_0
  
 "hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
 
-file:///run/user/1000/gvfs/smb-share:server=192.168.2.123,share=navigation/2020%E3%83%AD%E3%83%BC%E3%83%90%E3%83%BC%E7%8F%AD/horiuchi_data/PowerPoint/GitHub/1.mp4
-file:///run/user/1000/gvfs/smb-share:server=192.168.2.123,share=navigation/2020%E3%83%AD%E3%83%BC%E3%83%90%E3%83%BC%E7%8F%AD/horiuchi_data/PowerPoint/GitHub/1.mp4
+https://user-images.githubusercontent.com/73274492/109469232-1da3b480-7ab1-11eb-8515-1dd8ba2152a4.mp4
 
-file:///run/user/1000/gvfs/smb-share:server=192.168.2.123,share=navigation/2020%E3%83%AD%E3%83%BC%E3%83%90%E3%83%BC%E7%8F%AD/horiuchi_data/PowerPoint/GitHub/2.mp4
+
+https://user-images.githubusercontent.com/73274492/109469242-20060e80-7ab1-11eb-9342-072aad7e1ee3.mp4
+
+
+
 
 
 
