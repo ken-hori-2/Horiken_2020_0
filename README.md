@@ -23,7 +23,7 @@ https://user-images.githubusercontent.com/73274492/109469242-20060e80-7ab1-11eb-
 
 
 # Features
-自律移動の途中でその都度必要なノード呼び出しにはactionlibを用いてServer/Clientによる構造を用いて呼び出している．
+自律移動の途中でその都度必要なノード呼び出しにはactionlibを用いてServer/Clientによる構造を用いて呼び出しています．
 Serverは常に起動させておき，smachでactionlibを用いた特定の位置指定をしたエリアにClientを配置することでノードを途中起動させています．
 
 
@@ -32,7 +32,7 @@ Serverは常に起動させておき，smachでactionlibを用いた特定の位
 探索エリアでは事前に指定したポイントで探索ノード起動→探索対象が見つかるまで何度か探索し，発見したら探索対象に0.5mまで接近し，検知完了とし本来のゴールを目指す（制限時間と再試行回数設定 ：制限時間内では見つけるまで車体回転し続け，それを設定回数分だけ繰り返し，検知できたら次の行動へ移る．検知できなくても探索を諦め次の行動へ移る）．
 # Requirement
  
-動かすのに必要なライブラリなどを列挙
+動かすのに必要なライブラリなど
  
 (ros-melodic)
 
@@ -58,7 +58,7 @@ executive_smach_visualization
  
 # Installation
  
-Requirementで列挙したライブラリなどのインストール方法を説明する
+Requirementで列挙したライブラリなどのインストール方法
  
 ```bash
 sudo apt-get install ros-melodic-navigation
@@ -73,7 +73,7 @@ git clone https://github.com/ros-visualization/executive_smach_visualization.git
  
 # Usage
  
-DEMOの実行方法など、"Horiken_2020_0"の基本的な使い方を説明する
+DEMOの実行方法など、"Horiken_2020_0"の基本的な使い方
  
 ```bash
 cd ~/catkin_ws/src
