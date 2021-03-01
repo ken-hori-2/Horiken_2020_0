@@ -31,10 +31,19 @@ https://user-images.githubusercontent.com/73274492/109469242-20060e80-7ab1-11eb-
  
 # Requirement
  
-"hoge"を動かすのに必要なライブラリなどを列挙する
+動かすのに必要なライブラリなどを列挙
  
-* huga 3.5.2
-* hogehuga 1.0.2
+ros-melodic
+
+boundingbox_msgs
+darknet_ros
+navigation
+slam_gmapping
+openni_camera
+gazebo_rod_demos
+robot_arm_ros/diff_drive
+
+
  
 # Installation
  
