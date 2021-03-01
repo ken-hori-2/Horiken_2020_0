@@ -2,6 +2,7 @@
 
 
 
+
 # Horiken_2020_0
 
 # Name（リポジトリ/プロジェクト/OSSなどの名前）
@@ -16,8 +17,11 @@ Horiken_2020_0
 # DEMO
  
 "hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
-https://user-images.githubusercontent.com/73274492/109467394-745bbf00-7aae-11eb-8832-cf25e20f6db4.mp4
 
+file:///run/user/1000/gvfs/smb-share:server=192.168.2.123,share=navigation/2020%E3%83%AD%E3%83%BC%E3%83%90%E3%83%BC%E7%8F%AD/horiuchi_data/PowerPoint/GitHub/1.mp4
+file:///run/user/1000/gvfs/smb-share:server=192.168.2.123,share=navigation/2020%E3%83%AD%E3%83%BC%E3%83%90%E3%83%BC%E7%8F%AD/horiuchi_data/PowerPoint/GitHub/1.mp4
+
+file:///run/user/1000/gvfs/smb-share:server=192.168.2.123,share=navigation/2020%E3%83%AD%E3%83%BC%E3%83%90%E3%83%BC%E7%8F%AD/horiuchi_data/PowerPoint/GitHub/2.mp4
 
 
 
