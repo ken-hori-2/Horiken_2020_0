@@ -76,8 +76,9 @@ git clone https://github.com/ros-visualization/executive_smach_visualization.git
 DEMOの実行方法など、"Horiken_2020_0"の基本的な使い方を説明する
  
 ```bash
+cd ~/catkin_ws/src
 git clone https://github.com/ken-hori-2/Horiken_2020_0.git
-cd catkin_ws
+cd ~/catkin_ws
 catkin build
 roslaunch mighty_rover diff_drive.launch
 roslaunch ros_beginner mighty.launch
