@@ -12,10 +12,13 @@ Horiken_2020_0
 # DEMO
  
 "hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
-smb://192.168.2.123/navigation/2020ローバー班/horiuchi_data/PowerPoint/GitHub/メディア1.mp4
-smb://192.168.2.123/navigation/2020ローバー班/horiuchi_data/PowerPoint/GitHub/メディア2.mp4
- 
+
+
 # Features
+
+https://user-images.githubusercontent.com/73274492/109467394-745bbf00-7aae-11eb-8832-cf25e20f6db4.mp4
+
+
  
 "hoge"のセールスポイントや差別化などを説明する
  
