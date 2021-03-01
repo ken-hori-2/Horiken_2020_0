@@ -16,6 +16,8 @@ https://user-images.githubusercontent.com/73274492/109469232-1da3b480-7ab1-11eb-
 自律移動中の物体探索
 https://user-images.githubusercontent.com/73274492/109469242-20060e80-7ab1-11eb-9342-072aad7e1ee3.mp4
 
+<img width="271" alt="2021-03-01 (1)" src="https://user-images.githubusercontent.com/73274492/109474570-00beaf80-7ab8-11eb-995d-d6e1e00171c0.png">
+<img width="144" alt="2021-03-01 (2)" src="https://user-images.githubusercontent.com/73274492/109474574-02887300-7ab8-11eb-820b-6df040fac9be.png">
 
 
 
@@ -23,7 +25,7 @@ https://user-images.githubusercontent.com/73274492/109469242-20060e80-7ab1-11eb-
 
 # Features
 自律移動の途中でその都度必要なノード呼び出しにはactionlibを用いてServer/Clientによる構造を用いて呼び出している．
-Serverは常に起動させておき，smachでactionlibを用いた特定の位置指定をしたエリアにClientを配置することでノードを途中起動させてます．
+Serverは常に起動させておき，smachでactionlibを用いた特定の位置指定をしたエリアにClientを配置することでノードを途中起動させています．
 
 
 交差点では事前に指定したWPによって交差点領域内に入る前に一時停止，信号認識ノード起動→信号機が赤の間は停止し，青になったら自律移動再開．
