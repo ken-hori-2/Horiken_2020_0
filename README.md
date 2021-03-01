@@ -46,9 +46,13 @@ slam_gmapping
 
 openni_camera
 
-gazebo_rod_demos
+gazebo_ros_demos
 
 robot_arm_ros/diff_drive
+
+executive_smach
+
+executive_smach_visualization
 
 
  
@@ -57,7 +61,14 @@ robot_arm_ros/diff_drive
 Requirementで列挙したライブラリなどのインストール方法を説明する
  
 ```bash
-pip install huga_package
+sudo apt-get install ros-melodic-navigation
+sudo apt-get install ros-melodic-slam-gmapping
+git clone --recursive https://github.com/leggedrobotics/darknet_ros.git
+git clone https://github.com/ros-simulation/gazebo_ros_demos.git
+git clone https://github.com/parambeernegi/robot_arm_ros
+git clone https://github.com/ros-drivers/openni_camera.git
+git clone https://github.com/ros/executive_smach.git
+git clone https://github.com/ros-visualization/executive_smach_visualization.git
 ```
  
 # Usage
