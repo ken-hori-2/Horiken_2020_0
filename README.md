@@ -87,7 +87,7 @@ rosrun smach_viewer smach_viewer.py
 ```
  
 # Note
- AAA_test.pyを実行すると動き始めてしまうのでまとめられるもの以外は一つにまとめずに別々で起動させてます．
+ AAA_test.pyを実行すると動き始めてしまうのでまとめられるもの以外は一つにまとめずに別々で起動させています．
 # Author
 
 * 作成者 ken
